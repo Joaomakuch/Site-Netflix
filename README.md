@@ -3,6 +3,7 @@
 ### Sobre o projeto
 
 Projeto feito para aprimorar e desenvolver as linguagens HTML, CSS e Javascript.
+
 Não possui fins lucrativos, apenas educacionais.
 
 ### 🛠 Tecnologias
