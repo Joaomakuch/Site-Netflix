@@ -1,4 +1,4 @@
-# Site Neflix
+# Site Netflix
 
 ### Sobre o projeto
 
