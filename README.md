@@ -9,8 +9,8 @@ Projeto feito para aprimorar e desenvolver as linguagens HTML, CSS e Javascript
 As seguintes ferramentas foram usadas na construção do projeto:
 
 - [HTML](#)
-- [CSS]
-- [Javascript]
+- [CSS](#)
+- [Javascript](#)
 
 Feito por João Pedro Makuch de Souza 👋🏽 Entre em contato!
 
