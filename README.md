@@ -8,7 +8,7 @@ Projeto feito para aprimorar e desenvolver as linguagens HTML, CSS e Javascript
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- [HTML]
+- [HTML](#)
 - [CSS]
 - [Javascript]
 
